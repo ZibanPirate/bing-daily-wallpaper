@@ -1,6 +1,6 @@
 {
   "name": "bing-daily-wallpaper-cross-platform",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Set Bing image of the day as your desktop wallpaper daily",
   "main": "index.js",
   "repository": "https://github.com/ZibanPirate/bing-daily-wallpaper.git",
