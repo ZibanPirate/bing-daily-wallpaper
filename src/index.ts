@@ -1,3 +1,5 @@
+#! /usr/bin/env node
+
 import axios from "axios";
 import { dir } from "tmp-promise";
 import * as download from "download";
