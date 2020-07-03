@@ -44,7 +44,7 @@ To get started see [the contributing guidelines](https://github.com/ZibanPirate/
 
 ## Todos
 
-- [x] cross-platform (MacOS, Linux, Windows)
+- [x] Cross-platform support (MacOS, Linux, Windows)
 - [ ] More than 90% test coverage
 - [ ] Update wallpaper automatically each day
 - [ ] Electron App for non-programmers
