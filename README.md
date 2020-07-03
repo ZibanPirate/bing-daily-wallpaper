@@ -1,7 +1,7 @@
 # Bing Daily Wallpaper
 
-![npm](https://img.shields.io/npm/v/bing-daily-wallpaper-cross-platform)
-![npm](https://img.shields.io/npm/dm/bing-daily-wallpaper-cross-platform)
+[![](https://img.shields.io/npm/v/bing-daily-wallpaper-cross-platform)](https://www.npmjs.com/package/bing-daily-wallpaper-cross-platform)
+[![](https://img.shields.io/npm/dm/bing-daily-wallpaper-cross-platform)](https://www.npmjs.com/package/bing-daily-wallpaper-cross-platform)
 
 Set Bing image of the day as your desktop wallpaper daily
 
