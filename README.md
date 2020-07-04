@@ -22,7 +22,7 @@ install via NPM:
 npm i -g bing-daily-wallpaper-cross-platform
 ```
 
-install via Yarn:
+Or install via Yarn:
 
 ```terminal
 yarn global add bing-daily-wallpaper-cross-platform
